@@ -1,0 +1,7 @@
+#Open_Your_Door_Cut_on{*966#}=#ON{1}°%1
+
+#Close_Your_Door_Cut_off{*966#}=#ON{6}+{3}={1}°%
+
+#The_Start_Lighting_Rain With_Maps_Target_Time.
+
+#Load_simulation_results_with_a_single_line.
